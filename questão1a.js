@@ -1,0 +1,5 @@
+var nome1= "valentina"
+var nome2 = "isadora"
+var nome3 = "yuri"
+var nome4 = "julia"
+var nome5 = "raquel"
